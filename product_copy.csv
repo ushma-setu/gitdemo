@@ -1,0 +1,4 @@
+Product_name,Attribute_values
+Demo Test-1,"test_a : attr 1, test_b : attr 2, test_a : attr 4, test_a : attr 5"
+Demo Test-2,"test_b : attr 2, test_c : attr 3, test_c : attr"
+Demo Test-3,"test_b : attr 3,4,5, test_c : attr 4"
